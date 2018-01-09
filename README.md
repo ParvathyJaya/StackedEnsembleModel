@@ -2,8 +2,7 @@
 
 This project aims to develop successful intervention programs to help undergraduate students graduate on time.
 The prediction model is build  for identifying and prioritizing students who need those
-interventions the most. This study employs a machine learning framework to identify such stu-
-dents, describes features that are useful for this task, applies
+interventions the most. This study employs a machine learning framework to identify such students, describes features that are useful for this task, applies
 several classification algorithms, and evaluates them using standard
 metrics.
 
@@ -16,5 +15,3 @@ Finally, the stacked ensemble model is compared to the individual base learner a
 1. https://blogs.sas.com/content/subconsciousmusings/2017/05/18/stacked-ensemble-models-win-data-science-competitions/
 2. http://support.sas.com/resources/papers/proceedings17/SAS0437-2017.pdf
 3. https://dl.acm.org/citation.cfm?id=2788620
-# test
-# test
