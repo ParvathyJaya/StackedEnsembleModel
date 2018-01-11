@@ -1,3 +1,13 @@
+#############################################################################
+#                                                                           #
+# Copyright (C) Parvathy Jayaprakasan - All Rights Reserved                 #
+# Unauthorized copying of this file, via any medium is strictly prohibited  #
+# Proprietary and Confidential                                              #
+# Written by Parvathy Jayaprakasan, August 2017                             #
+#                                                                           #
+#############################################################################
+
+
 ###########################
 # READING DATA FILES
 ###########################
